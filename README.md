@@ -16,6 +16,7 @@ The morphology and shape structure of PLGA-PEG-MET nanoparticles were visualized
 Effect of pure metformin, PLGA-PEG copolymer, PLGA-PEG-MET nanoparticles on cell viability (4-[3-(4-iodophenyl)-2-(4-nitrophenyl)-2H-5-tetrazolio]-1,3 benzene disulfonate ) reagent was used (2). The WST-1 method is based on the cleavage of the tetrazolium salt WST-1 by mitochondrial dehydrogenases into water-soluble formosan crystals. . In this test, 5000 cells were seeded in 100 µl DMEM-F12 medium in a 96-well microplate (3 replicates). The cells were kept in a CO2 incubator for 24 hours to allow them to adhere to the surface. Drugs were given at different concentrations to the control and experimental groups (0.5 mM - 64 mM). 96-well microplates were kept in a CO2 incubator for 72 hours. After incubation, 10 µl of WST-1 reagent was added in a light-free environment and incubated for 3 hours. At the 3rd hour, absorbances (ABS) were recorded at 450 nm wavelength in the plate reader. Additionally, % viability and % cytotoxicity were calculated.
 
 % Viability = (Average Sample ABS/Average Control ABS) x 100
+![image](https://github.com/ezgi1995/PLGA-PEG-Nanoparticles/assets/148042405/344256b0-1d31-49f0-863d-82d55a545f5f)
 
 [this is referecens](https://www.semanticscholar.org/paper/The-Biochemical-and-Cellular-Basis-of-Cell-Assays-Berridge-Tan/aa2987eb6edbe652fe5ae5b37a253412bed07b9a)
 
